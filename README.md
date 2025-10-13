@@ -25,6 +25,9 @@ Project by Aiden Rivera and Justin Vierkandt
 - Battery life goal of around 30 minutes
 - Power source of choice currently: D Cell Batteries
 
+## Notes
+[Keyboard](Notes/Keyboard.md)
+
 ## Helpful Links
 
 [Website on PS/2 physical port and communication protocol](https://www.burtonsys.com/ps2_chapweske.htm)
