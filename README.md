@@ -31,3 +31,5 @@ Project by Aiden Rivera and Justin Vierkandt
 ## Helpful Links
 
 [Website on PS/2 physical port and communication protocol](https://www.burtonsys.com/ps2_chapweske.htm)
+[Another PS/2 Protocal Site, this one includes the keycodes](https://www.eecg.utoronto.ca/~jayar/ece241_08F/AudioVideoCores/ps2/ps2.html#apkeycodes)
+
