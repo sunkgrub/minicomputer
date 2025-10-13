@@ -27,4 +27,4 @@ Project by Aiden Rivera and Justin Vierkandt
 
 ## Helpful Links
 
-[Website on PS/2 physical port and communication protocal](https://www.burtonsys.com/ps2_chapweske.htm)
+[Website on PS/2 physical port and communication protocol](https://www.burtonsys.com/ps2_chapweske.htm)
