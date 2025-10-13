@@ -10,7 +10,7 @@ Project by Aiden Rivera and Justin Vierkandt
 - [ ] 5mm PushButtons
 - [ ] Keycaps
 - [ ] PCB
-- [ ] Microcontroller
+- [ ] Microcontroller [Possible Option](https://store-usa.arduino.cc/products/nano-esp32-with-headers) 
 - [ ] PS/2 Output Connector
 
 ### Display
