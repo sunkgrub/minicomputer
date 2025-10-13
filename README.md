@@ -24,3 +24,7 @@ Project by Aiden Rivera and Justin Vierkandt
 - Can take PS/2 input from the keyboard
 - Battery life goal of around 30 minutes
 - Power source of choice currently: D Cell Batteries
+
+## Helpful Links
+
+[Website on PS/2 physical port and communication protocal](https://www.burtonsys.com/ps2_chapweske.htm)
