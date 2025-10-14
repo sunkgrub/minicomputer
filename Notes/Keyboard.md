@@ -23,4 +23,4 @@ The general format for the protocol is an 11 bit signal. These 11 bit signals se
 Odd parity means that the total number of bits in the signal must be odd. Each bit is sent over one clock pulse length
 
 Signal for letter 'Q'
-![Signal Diagram](D:\coding\Projects\MiniComputer\Notes\SignalDiagramQ.png)
+![Signal Diagram](SignalDiagramQ.png)
