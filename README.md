@@ -34,3 +34,4 @@ Project by Aiden Rivera and Justin Vierkandt
 
 [Another PS/2 Protocal Site, this one includes the keycodes](https://www.eecg.utoronto.ca/~jayar/ece241_08F/AudioVideoCores/ps2/ps2.html#apkeycodes)
 
+[Tiny keyboard Build Video](https://www.youtube.com/watch?v=ZZqfPCV0RMk)
