@@ -26,7 +26,7 @@ Project by Aiden Rivera and Justin Vierkandt
 - Power source of choice currently: D Cell Batteries
 
 ## Notes
-[Keyboard](Notes/Keyboard.md)
+[Keyboard](Notes/"PS/2"/Keyboard.md)
 
 ## Helpful Links
 
